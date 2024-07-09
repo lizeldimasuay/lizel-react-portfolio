@@ -1,0 +1,11 @@
+#about-info {
+    min-height: 30vh;
+    background-color: rgb(53, 221, 81);
+
+}
+
+#about img {
+  width: 300px; 
+  border-radius: 10px;
+  box-shadow: 20px 20px 20px #000;
+}

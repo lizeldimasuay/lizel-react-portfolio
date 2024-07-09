@@ -1,0 +1,44 @@
+#portfolio-info {
+    min-height: 50vh;
+    background-color: rgb(54, 230, 10);
+    
+}
+
+#portfolio img {
+    width: 200px;
+}
+#portfolio-info {
+    min-height: 30vh;
+}
+
+#portfolio img {
+    box-shadow: 15px 15px 10px 10px #363636;
+    border-radius: 20px;
+}
+
+#portfolio .one {
+    width: 400px;
+}
+#portfolio .two {
+    width: 450px;
+}
+#portfolio .three {
+    width: 400px;
+}
+#portfolio .four {
+    width: 500px;
+}
+
+#portfolio h4:hover {
+    text-shadow: 0 0 20px #53035e, 0 0 40px #0407a3;
+}
+
+#portfolio img:hover{
+    width: 600px;
+    transition: all .5s ease;
+}
+
+#portfoilio .one:hover{
+    width: 500px;
+    transition: all .5s ease;
+}

@@ -1,0 +1,17 @@
+#experience-info {
+    min-height: 30vh;
+    background-color: rgb(52, 238, 52);
+}
+.card img {
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.card img:hover {
+    text-shadow: 0 0 20px #53035e, 0 0 40px #0407a3;
+}
+
+.card img:hover{
+    width: 600px;
+    transition: all .5s ease;
+}
